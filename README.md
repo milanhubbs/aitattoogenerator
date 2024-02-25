@@ -10,6 +10,7 @@ AI tattoo generators are more than just a trend; they represent a significant le
 - **Review**: InkHunter stands out not only for its AI-driven design capabilities but also for its augmented reality feature, allowing you to see how a tattoo looks on your body in real-time. This blend of technology makes it a top choice for those who want to try before they ink.
 - **Pros**: Realistic previews, user-friendly interface.
 - **Cons**: Limited to designs available within the app.
+- https://www.ink-spiration.io/
 
 ### Ai Tattoo Max 🖌️🖌️🖌️🖌️
 - **Review**: Designed with tattoo artists in mind, TattooSmart offers a suite of digital tools that bridge the gap between traditional artistry and digital innovation. While it excels in providing resources for professionals, hobbyists might find it less accessible.
@@ -26,6 +27,7 @@ AI tattoo generators are more than just a trend; they represent a significant le
 - **Review**: For those interested in text-based tattoos, TattooFonts is a game-changer. Its AI-driven tool generates various font styles and layouts from your input, making it perfect for finding the unique script for your tattoo.
 - **Pros**: Extensive font options, easy to use.
 - **Cons**: Focused solely on text designs.
+- https://www.instantaiprompt.com/prompts/dall-e/tattoo-generator/
 
 ### CustomTattooDesign 🖊️🖊️🖊️
 - **Review**: This service takes a more personalized approach by using AI to kickstart the design process before handing it off to human artists for refinement. It's great for bespoke designs but comes with a higher price point.
